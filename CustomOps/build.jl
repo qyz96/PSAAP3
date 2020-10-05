@@ -1,3 +1,4 @@
+using ADCME
 function install_had()
     change_directory()
     git_repository("https://github.com/kailaix/had", "had")
